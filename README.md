@@ -1,3 +1,5 @@
+<img src="https://github.com/fathur-rs/sign_languange_detection/blob/main/cons.png" width="800"/><br>
+
 ## Intro
 Bahasa Isyarat Amerika (ASL) adalah bahasa isyarat yang memiliki sifat linguistik yang sama dengan bahasa lisan, dengan tata bahasa yang berbeda dari bahasa Inggris. ASL diekspresikan dengan gerakan tangan dan wajah. Ini adalah bahasa utama yang banyak digunakan oleh orang Amerika Utara yang tuli dan sulit mendengar. 
 
