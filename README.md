@@ -7,4 +7,4 @@ American Sign Language (ASL) is a sign language that has the same linguistic pro
 ## Data Used
 The data used is primary data that uses the open-cv library to capture photos of hands based on shapes that symbolize the letters of the American sign language. cvzone library is used to map the skeleton structure of the fingers to make it easier for the model to distinguish characteristics between letters which can improve the accuracy of the model. The label consists of the letters A-Z which is represented by number notation (A=1, B=2, ...) except for the letters J and Z due to the need for finger motion to indicate these letters.
 
-<a src='https://drive.google.com/drive/folders/1hn_DGhWFwiArVYTug0lL6VUswfVSyCi-?usp=share_link' >Dataset</a>
+[Sign Language Dataset](https://drive.google.com/drive/folders/1hn_DGhWFwiArVYTug0lL6VUswfVSyCi-?usp=share_link)
